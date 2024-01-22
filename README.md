@@ -17,6 +17,9 @@ I enjoy creating web applications focused on the frontend and I am constantly ex
   </a>
 </p>
 
+## 🌟GitHub Stats: :top::chart_with_upwards_trend:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Janneth&layout=compact&theme=jolly&hide_border=true)
+
 ## 🌟Find me: :speech_balloon::globe_with_meridians:
 <p align="left">
 <a href="https://www.linkedin.com/in/eliana-puerta/">
@@ -25,9 +28,7 @@ I enjoy creating web applications focused on the frontend and I am constantly ex
   <img align="left" alt="Eliana Puerta | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<br>
 
-## 🌟GitHub Stats: :top::chart_with_upwards_trend:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana-Janneth&layout=compact&theme=jolly&hide_border=true)
+<br><br>
 
 Thanks for visiting my profile! 😊❤️    
