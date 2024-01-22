@@ -1,4 +1,4 @@
-### Hello 👋🏻👩🏻‍💻
+<h1 align="center"> Hello 👋🏻👩🏻‍💻 </h1> 
 
 <div>
 <img align="center" alt="GIF" src="./images/GitHub.gif" />
