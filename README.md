@@ -5,14 +5,14 @@
 </div>
 
 <br>
-✨✨✨I'm a passionate software developer, I'm 23 years old and I'm from the vibrant city of Medellin, Colombia.
+✨✨✨I'm a passionate software developer, I'm 24 years old and I'm from the vibrant city of Medellin, Colombia.
 I enjoy creating web applications focused on the frontend and I am constantly exploring new technologies to improve my skills.🦋💎
 <br>
 
 ## 🌟Frameworks and tools:🌠💥❄️
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,react,vue,git,nodejs,tailwind,html,css,astro,sass" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,vue,git,nodejs,tailwind,html,css,astro,sass,python" />
     <img src="https://skillicons.dev/icons?i=docker,github,mysql,postgres,figma,maven,idea,vite,postman,vercel,vscode,netlify" />
   </a>
 </p>
